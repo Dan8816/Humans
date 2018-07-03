@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\obj\Debug\netcoreapp2.1\Human.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\obj\Debug\netcoreapp2.1\Human.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\obj\Debug\netcoreapp2.1\Human.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\obj\Debug\netcoreapp2.1\Human.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\bin\Debug\netcoreapp2.1\Human.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\bin\Debug\netcoreapp2.1\Human.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\bin\Debug\netcoreapp2.1\Human.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\bin\Debug\netcoreapp2.1\Human.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\bin\Debug\netcoreapp2.1\Human.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\obj\Debug\netcoreapp2.1\Human.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\OOP\Human\obj\Debug\netcoreapp2.1\Human.pdb
