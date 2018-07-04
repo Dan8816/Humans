@@ -3,23 +3,36 @@ namespace Human
     public class Homosapien
     {
         public string name;
-        public int strength;
-        public int intelligence;
-        public int dexterity;
-        public int health;
-        public Homosapien(string GivenName, int Muscles, int Brain, int Control, int Fitness)
+        public int strength { get; set; }
+        public int intelligence { get; set; }
+        public int dexterity { get; set; }
+        public int health { get; set; }
+        public Homosapien(string person)
         {
-            name = GivenName;
-            strength = Muscles;
-            intelligence = Brain;
-            dexterity = Control;
-            health = Fitness;
+            name = person;
+            strength = 3;
+            intelligence = 3;
+            dexterity = 3;
+            health = 100;
         }
-        public void Attack(Homosapien Defender, int Attack)
+        public Homosapien(string person, int str, int intel, int dex, int hp)
         {
-            if (Defender is Homosapien)
+            name = person;
+            strength = str;
+            intelligence = intel;
+            dexterity = dex;
+            health = hp;
+        }
+        public void attack(object obj)
+        {
+            Homosapien enemy = obj as Homosapien;
+            if (enemy == null)
             {
-                Defender.health -= (Attack*5);
+                System.Console.WriteLine("Failed Attack");
+            }
+            else
+            {
+                enemy.health -= strength * 5;
             }
         }
     }
